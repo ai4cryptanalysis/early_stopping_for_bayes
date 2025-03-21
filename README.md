@@ -1,4 +1,4 @@
-# early_stopping_for_bayes
+# Early_Stopping_for_BayesianKeySearch
 
 The code is related to 'Accelerating Machine Learning-Aided Key Recovery with Early Stopping Technique'.
 
